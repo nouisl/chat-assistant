@@ -1,4 +1,4 @@
-userInput { 
+.userInput { 
     width: 300px; 
     height: 40px; 
     padding: 10px; 
@@ -7,6 +7,6 @@ userInput {
     border-radius: 5px; 
 } 
 
-userInput::placeholder { 
+.userInput::placeholder { 
     color: #999; 
 } 
